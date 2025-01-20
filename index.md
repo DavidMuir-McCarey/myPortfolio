@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog - Theme: Minima
+title: Welcome to my blog - Theme Minima
 ---
 
